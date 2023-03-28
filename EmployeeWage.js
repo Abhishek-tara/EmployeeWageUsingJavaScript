@@ -1,0 +1,1 @@
+console.log("Welcome to the emp wage Problem using Javascript");
